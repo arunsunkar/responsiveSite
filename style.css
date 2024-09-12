@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+}
+
+.navbar-brand {
+  font-family: 'Protest Guerrilla';
+  font-size: 25px;
+}
+
+
+.card-tag {
+  font-size: 12px;
+}
+
+.backgroundImg {
+  background: rgb(48,85,121);background: linear-gradient(15deg, rgba(48,85,121,1) 0%, rgba(118,141,168,0.9612219887955182) 47%, rgba(128,232,210,0.9051995798319328) 100%);
+}
+
