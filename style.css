@@ -7,10 +7,6 @@
   font-size: 25px;
 }
 
-/* .title-container {
-
-} */
-
 .card-tag {
   font-size: 12px;
 }
@@ -21,4 +17,23 @@
 
 .card-container {
   background-color: #80e8d2;
+}
+
+
+.background-color {
+  background: rgb(48,85,121);background: linear-gradient(15deg, rgba(48,85,121,1) 0%, rgba(118,141,168,0.9612219887955182) 47%, rgba(128,232,210,0.9051995798319328) 100%);
+}
+
+.search-button {
+  border-style: none;
+  border: 0px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(173, 164, 164);
+}
+
+.center-title {
+  font-size: 3rem;
 }
